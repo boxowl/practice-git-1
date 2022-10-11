@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 boxowl boxowl 189 Oct 11 18:27 file.txt
+-rw-rw-r-- 1 boxowl boxowl  26 Oct 11 18:02 file2.txt
+-rw-rw-r-- 1 boxowl boxowl   0 Oct 11 18:45 вывод.txt
